@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently on my way to be a software developer.
+- 🌱 I’m currently on my way to become a software developer.
 - 👯 I am hoping to be part of a company that could boost and harness my skills.
 
 - 😄 Nice to meet you! Hope to see you soon!
